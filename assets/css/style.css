@@ -74,10 +74,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .container-fluid {
   background: transparent; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#cccccc, black); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#cccccc, black); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#cccccc, black); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#cccccc, black); /* Standard syntax */
+  background: -webkit-linear-gradient(#cccccc, transparent); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#cccccc, transparent); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#cccccc, transparent); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#cccccc, transparent); /* Standard syntax */
 }
 
 .navbar-brand {
