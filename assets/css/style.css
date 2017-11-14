@@ -115,12 +115,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .lightgrey {
-  background-color: #D0D3D4
+  background-color: #D0D3D4;
+  width: 100%;
 }
 
 .navbar .container-fluid {
   padding-right: 25px
 }
+
+.squeeze {
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.btn-lg {
+  color: white;
+  border: solid white;
+  margin-top: 1em
+}
+
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
